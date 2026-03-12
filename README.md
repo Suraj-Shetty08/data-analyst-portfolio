@@ -7,6 +7,7 @@ focused on data cleaning, analysis, and business insights.
 ## Skills
 - Excel (Dashboards, Pivot Tables, Power Query)
 - SQL (MySQL – Joins, Aggregations, CASE)
+- Tableau
 - Data Cleaning & Analysis
 
 ## Projects
@@ -27,11 +28,17 @@ focused on data cleaning, analysis, and business insights.
 
 ---
 
-### 3️⃣ Excel + SQL Sales Analysis *(Upcoming)*
-**Tools:** MySQL, Excel  
-**Description:** SQL-driven analysis with Excel reporting.
+### 3️⃣ Stock Market Volatility Analysis
+**Tools:** Excel, Tableau
+**Description:** Dashboard analyzing volatility trends, spike sensitivity, and trading activity across major tech stocks.
+
+🔗 View Project: https://github.com/Suraj-Shetty08/stock-market-volatility-analysis.git
 
 ---
+
+### 4️⃣ Excel + SQL Sales Analysis (Upcoming)
+**Tools:** MySQL, Excel
+**Description:** SQL-based data analysis with Excel reporting and visualization.
 
 📌 **Note:**  
 This portfolio is continuously updated as I build new projects and deepen my skills in SQL, Excel, and data analysis.  
