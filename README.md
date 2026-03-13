@@ -9,10 +9,10 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 ---
 
 ## 🔧 Skills
-- **Excel** — Dashboards, Pivot Tables, Power Query, Data Cleaning
-- **SQL** — MySQL, Joins, Aggregations, CASE Statements
-- **Tableau** — Interactive Dashboards, Geographic Visualization
-- **Core** — Exploratory Data Analysis, Business Insight Generation
+- **Excel** : Dashboards, Pivot Tables, Power Query, Data Cleaning
+- **SQL** : MySQL, Joins, Aggregations, CASE Statements
+- **Tableau** : Interactive Dashboards, Geographic Visualization
+- **Core** : Exploratory Data Analysis, Business Insight Generation
 
 ---
 
