@@ -29,7 +29,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 - Virat Kohli tops run scorers by a ~1,500 run margin; YS Chahal leads wicket takers with 200+
 - Average first innings scores rose from ~150 (2008) to ~189 (2022), reflecting the T20 batting evolution
 
-🔗 [View Project](https://github.com/Suraj-Shetty08/ipl-cricket-analysis) | 📊 [Live Tableau Dashboard](https://public.tableau.com/views/ipl_analysis_17734882889330/IplAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Project](https://github.com/Suraj-Shetty08/ipl-analysis.git) | 📊 [Live Tableau Dashboard](https://public.tableau.com/views/ipl_analysis_17734882889330/IplAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
