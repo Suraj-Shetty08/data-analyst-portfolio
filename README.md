@@ -1,4 +1,4 @@
-# Data Analyst Portfolio – Suraj Shetty
+# Data Analyst Portfolio | Suraj Shetty
 
 ## About Me
 Data Analyst with hands-on experience in Excel, SQL, and Tableau.
@@ -8,7 +8,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-## 🔧 Skills
+##  Skills
 - **Excel** : Dashboards, Pivot Tables, Power Query, Data Cleaning
 - **SQL** : MySQL, Joins, Aggregations, Window Functions, CASE Statements
 - **Tableau** : Interactive Dashboards, Geographic Visualization
@@ -16,9 +16,9 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-## 📊 Projects
+##  Projects
 
-### 1️⃣ IPL Cricket Analysis
+### 1) IPL Cricket Analysis
 **Tools:** MySQL, Tableau  
 **Dataset:** 950+ matches · 200,000+ ball-by-ball delivery records (2008–2022)
 
@@ -33,7 +33,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-### 2️⃣ Hotel Booking Cancellation Analysis
+### 2) Hotel Booking Cancellation Analysis
 **Tools:** MySQL, Tableau  
 **Dataset:** 119,390 booking records across city and resort hotels
 
@@ -48,7 +48,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-### 3️⃣ Stock Market Volatility Analysis
+### 3) Stock Market Volatility Analysis
 **Tools:** Excel, Tableau  
 **Dataset:** Top 9 S&P 500 stocks by market cap
 
@@ -63,7 +63,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-### 4️⃣ Retail Customer Behavior Analysis
+### 4) Retail Customer Behavior Analysis
 **Tools:** Excel  
 **Dataset:** Retail transaction data across seasons and demographics
 
@@ -73,7 +73,7 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-### 5️⃣ Bike Sales Dashboard
+### 5) Bike Sales Dashboard
 **Tools:** Excel  
 **Dataset:** Bike sales data across regions, demographics, and commute patterns
 
@@ -83,5 +83,5 @@ I focus on data cleaning, analysis, and building dashboards that translate data 
 
 ---
 
-📌 **Note:**
+ **Note:**
 This portfolio is continuously updated as I build new projects and deepen my skills in SQL, Tableau, and data analysis. Each project focuses on solving practical business problems using real-world datasets.
